@@ -1,24 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar';
+import Hero from './sections/Hero';
+import Banner from './components/Banner';
+import Help from './sections/Help';
+import Features from './sections/Features';
+import Download from './sections/Download';
+import Testimonials from './sections/Testimonials';
+import Newsletter from './sections/Newsletter';
+import Footer from './sections/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar/>
+      <Hero/>
+      <Banner overflow='hidden' height='auto'><Help/></Banner>
+      <Banner overflow='hidden' height='auto'><Features/></Banner>
+      <Banner overflow='visible' height='350px'><Download/></Banner>
+      <Banner overflow='hidden' height='auto'><Testimonials/></Banner>
+      <Newsletter/>
+      <Footer/>
+      <div className='copyright'>
+      <p >© Insignia™, 2020. All rights reserved.</p>
+      </div>
+    </>
   );
 }
 
