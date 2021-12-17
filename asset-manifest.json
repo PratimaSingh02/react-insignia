@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-insignia/static/css/main.431873eb.css",
+    "main.js": "/react-insignia/static/js/main.3288b7a9.js",
+    "static/js/787.09ce50b7.chunk.js": "/react-insignia/static/js/787.09ce50b7.chunk.js",
+    "static/media/phone.png": "/react-insignia/static/media/phone.729e430a4e5e37385ce5.png",
+    "static/media/logo.png": "/react-insignia/static/media/logo.41d2dd174df8acca2f14.png",
+    "static/media/banner.PNG": "/react-insignia/static/media/banner.5ab46afef3110ea53c42.PNG",
+    "static/media/hero.PNG": "/react-insignia/static/media/hero.6d337eb8bae5263f927c.PNG",
+    "static/media/feature2.PNG": "/react-insignia/static/media/feature2.b6cbcdea8702f8e1fcab.PNG",
+    "static/media/feature3.PNG": "/react-insignia/static/media/feature3.848ac3d14a4214f1abb9.PNG",
+    "static/media/feature1.PNG": "/react-insignia/static/media/feature1.67d7a8dfdd70c9b4c457.PNG",
+    "index.html": "/react-insignia/index.html",
+    "main.431873eb.css.map": "/react-insignia/static/css/main.431873eb.css.map",
+    "main.3288b7a9.js.map": "/react-insignia/static/js/main.3288b7a9.js.map",
+    "787.09ce50b7.chunk.js.map": "/react-insignia/static/js/787.09ce50b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.431873eb.css",
+    "static/js/main.3288b7a9.js"
+  ]
+}
